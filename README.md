@@ -14,3 +14,11 @@ Abaixo, está um pequeno mapa mental sobre como o sistema funciona, mostrando os
 
 
 ![Captura de Tela (90)](https://github.com/user-attachments/assets/374d8c19-d9b6-4e2a-833c-92f1870e469e)
+
+
+# Página Inicial do Sistema
+
+Abaixo uma imagem ilustrativa sobre a página inial do sistema
+
+
+![Captura de tela 2025-04-28 214013](https://github.com/user-attachments/assets/0688d111-b31a-4932-a695-30e81885722b)
